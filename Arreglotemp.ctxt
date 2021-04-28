@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Arreglotemp
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Arreglo\ here.\r\n\ crear\ un\ programa\ que\ calcule\ el\ promedio\ anual\ de\ las\ temperaturas\ de\ una\ localidad\r\n\ los\ valores\ de\ la\ temperatura\ se\ almacenan\ como\ un\ numero\ intero\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ llenarArreglo()
+comment2.params=
+comment2.target=void\ temperaturaAnual()
+comment3.params=
+comment3.target=void\ estadisticasTemp()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

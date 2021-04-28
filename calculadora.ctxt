@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=calculadora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ calculadora\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=val1\ val2
+comment1.target=double\ sumar(double,\ double)
+comment2.params=val1\ val2
+comment2.target=double\ restar(double,\ double)
+comment3.params=val1\ val2
+comment3.target=double\ multiplicar(double,\ double)
+comment4.params=val1\ val2
+comment4.target=double\ dividir(double,\ double)
+comment5.params=arg
+comment5.target=void\ main(java.lang.String[])
+numComments=6

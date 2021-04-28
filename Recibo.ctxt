@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Recibo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Recibo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ llenarregistro()
+comment2.params=
+comment2.target=void\ consumoPromedio()
+comment3.params=
+comment3.target=void\ imprimir_consumo_bimestral()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
